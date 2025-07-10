@@ -1,4 +1,4 @@
-import { WelcomeSvg} from "../../utils/WelcomeSVG";
+import WelcomeSVG from "../../utils/WelcomeSvg";
 
 export default function Welcome() {
   return (
