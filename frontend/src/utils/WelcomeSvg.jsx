@@ -1,4 +1,4 @@
-export const WelcomeSVG = () => (
+export const WelcomeSvg= () => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     width="800"
